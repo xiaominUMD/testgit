@@ -1,2 +1,0 @@
-print('daji')
-print('hello')
